@@ -1,0 +1,10 @@
+public class Functions1 {
+ 
+
+public static int isSubtract(int x, int y) {
+    
+      int difference = x - y;
+	return difference;
+
+ }
+}
